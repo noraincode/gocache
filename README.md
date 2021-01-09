@@ -1,4 +1,6 @@
 ## 分布式缓存学习日志
+[![Build Status](https://www.travis-ci.com/noraincode/gocache.svg?branch=master)](https://www.travis-ci.com/noraincode/gocache)
+
 from: https://github.com/geektutu/7days-golang
 ### 1. 分布式缓存
 
